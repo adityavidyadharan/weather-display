@@ -49,6 +49,10 @@ The faceplate for the box was also laser cut from plywood but does not use the F
 <p align="center">
     <img src="assets/faceplate.svg">
 </p>
+
+> Faceplate SVG can be found [here](assets/faceplate.svg) <br>
+> Encluse SVG can be found [here](assets/enclosure.svg)
+> 
 The faceplate contains cutouts for the display, the rotary encoder, and the LED holders.
 
 ## Software
