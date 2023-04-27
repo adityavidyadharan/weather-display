@@ -1,0 +1,9 @@
+# Mac OS Files
+.DS_Store
+
+# Repo Files
+.idea
+.vscode
+
+# Project Files
+scripts/png/resized/*
